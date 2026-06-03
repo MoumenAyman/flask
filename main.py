@@ -32,7 +32,6 @@ app_mode = st.sidebar.selectbox(
 )
 
 st.sidebar.markdown("---")
-st.sidebar.markdown("### 📢 Sponsored Link")
 st.sidebar.info("[🔥 Remove Ads & Upgrade to NexusAI Pro Max]")
 
 if app_mode == "⚡ Advanced OCR & Audio Suite":
